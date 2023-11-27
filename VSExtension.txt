@@ -1,0 +1,5 @@
+Prettier
+Shift + ALT + F
+
+Format HTML in PHP
+CTRL + ALT + F
